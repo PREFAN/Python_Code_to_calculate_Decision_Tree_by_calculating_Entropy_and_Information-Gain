@@ -1,0 +1,1 @@
+# Python_Code_to_calculate_Decision_Tree_by_calculating_Entropy_and_Information-Gain
